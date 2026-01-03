@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M2,2h20v20h-20z" />
+
+    <!-- Icon (music note style, generic media) -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M12,6v8.55c-0.59,-0.34 -1.27,-0.55 -2,-0.55c-1.66,0 -3,1.34 -3,3s1.34,3 3,3s3,-1.34 3,-3v-7h4v-4h-6z" />
+</vector>
